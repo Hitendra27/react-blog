@@ -1,3 +1,9 @@
+# React Blog Post Website
+
+## screenshots of the Blog App.
+<img width="1440" alt="Screenshot 2023-03-24 at 19 42 10" src="https://user-images.githubusercontent.com/73651340/227652641-4ffc1216-31e2-4872-a09c-3a39ed231c33.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
