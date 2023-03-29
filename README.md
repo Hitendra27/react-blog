@@ -1,9 +1,15 @@
 # React Blog Post Website
 
 ## screenshots of the Blog App.
-<img width="1440" alt="Screenshot 2023-03-24 at 19 42 10" src="https://user-images.githubusercontent.com/73651340/227652641-4ffc1216-31e2-4872-a09c-3a39ed231c33.png">
+<img width="1440" alt="Screenshot 2023-03-25 at 18 01 17" src="https://user-images.githubusercontent.com/73651340/228534342-5f665d12-86da-4a5a-a870-87ce5fadc603.png">
+<img width="1440" alt="Screenshot 2023-03-24 at 23 07 51" src="https://user-images.githubusercontent.com/73651340/228534363-ec77d22a-e3a9-4c24-964b-b007e60b37bc.png">
+<img width="1440" alt="Screenshot 2023-03-25 at 18 01 24" src="https://user-images.githubusercontent.com/73651340/228534377-d38023ab-f87a-465d-b823-53fc66d9d2f3.png">
+<img width="1440" alt="Screenshot 2023-03-25 at 18 01 51" src="https://user-images.githubusercontent.com/73651340/228534386-322c2e40-7a60-4911-bbc4-a6a786d6d8e0.png">
+<img width="1440" alt="Screenshot 2023-03-25 at 18 02 02" src="https://user-images.githubusercontent.com/73651340/228534400-1a36d501-94ae-43fd-bf60-0447d6e4e6ce.png">
+<img width="1440" alt="Screenshot 2023-03-25 at 18 02 10" src="https://user-images.githubusercontent.com/73651340/228534410-712a4aa3-fe99-480a-b729-93c0815000cc.png">
+<img width="1440" alt="Screenshot 2023-03-25 at 18 02 19" src="https://user-images.githubusercontent.com/73651340/228534427-7ef2245e-9f17-4f8e-b275-783b62f02f24.png">
+<img width="1440" alt="Screenshot 2023-03-25 at 18 02 26" src="https://user-images.githubusercontent.com/73651340/228534451-05f807d1-53d8-4572-9b7d-003e82007a1a.png">
 
-<img width="1440" alt="Screenshot 2023-03-24 at 22 43 18" src="https://user-images.githubusercontent.com/73651340/227659449-938bb4d8-fc9b-49c8-af28-31d126dbd2a5.png">
 
 # Getting Started with Create React App
 
